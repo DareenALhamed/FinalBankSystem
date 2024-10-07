@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\final\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|solutionrelative:audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\final\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|solutionrelative:auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\final\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\final\\accounts.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|solutionrelative:accounts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\final\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\final\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF2FD18-064D-41A9-A9E5-78E92611B0E0}|Final.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "accounts.txt",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\accounts.txt",
+              "RelativeDocumentMoniker": "accounts.txt",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\accounts.txt",
+              "RelativeToolTip": "accounts.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-07T17:38:21.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Audit.cs",
+              "RelativeDocumentMoniker": "Audit.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Audit.cs",
+              "RelativeToolTip": "Audit.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:33:33.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Admin.cs",
+              "RelativeToolTip": "Admin.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA8wBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:31:56.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Auth.cs",
+              "RelativeDocumentMoniker": "Auth.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Auth.cs",
+              "RelativeToolTip": "Auth.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:30:19.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:27:32.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:42:07.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\Final\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T16:31:36.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
